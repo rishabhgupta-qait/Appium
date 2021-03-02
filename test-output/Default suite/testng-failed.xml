@@ -6,6 +6,7 @@
       <class name="Test.TestCases">
         <methods>
           <include name="setUp"/>
+          <include name="dragandDrop"/>
           <include name="toggle"/>
         </methods>
       </class> <!-- Test.TestCases -->
